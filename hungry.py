@@ -1,3 +1,5 @@
-for i in range(1,4):
-    print(i)
-    
+hungry =input("are you hungry")
+if hungry=='yes':
+    print("eat samosa")
+else:
+    print("do your job then")
